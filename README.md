@@ -9,5 +9,14 @@ The dataset used in this project can be accessed from the [UCI Machine Learning 
 It contains a comprehensive collection of features related to various companies, including financial ratios, industry-specific attributes, and more. These attributes serve as potential predictors for determining bankruptcy.
 
 
+## Notebooks
+
+This project consists of three notebooks:
+
+1. **Working with ARFF File:** This notebook demonstrates how to read and process data in ARFF format.
+
+2. **Bankruptcy Prediction:** This notebook contains the main analysis, including data preprocessing, feature selection, model training, and evaluation.
+
+3. **Data Description:** This notebook offers a detailed description of dataset features. It explains the relevance of each attribute in bankruptcy prediction and any preprocessing steps taken.
 
 
