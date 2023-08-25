@@ -13,7 +13,7 @@ It contains a comprehensive collection of features related to various companies,
 
 This project consists of three notebooks:
 
-1. **Working with ARFF File:** This notebook demonstrates how to read and process data in ARFF format.
+1. **Working with ARFF File:** This notebook demonstrates how to read and process data in ARFF format using Pandas and then convert it to CSV file.
 
 2. **Bankruptcy Prediction:** This notebook contains the main analysis, including data preprocessing, feature selection, model training, and evaluation.
 
